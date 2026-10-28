@@ -1,3 +1,5 @@
+Hi there 👋 Thanks for coming!
+
 # 💫 About Me:
 - 🔭 **I’m currently working on:** Building intelligent AI agents, RAG-powered applications, scalable backend systems, and automated data pipelines using Python, FastAPI, LangChain, and LangGraph.<br>- 👯 **I’m looking to collaborate on:** Open-source AI/ML projects, Generative AI, Data Engineering, intelligent automation, and innovative SaaS solutions.<br>- 🤝 **I’m looking for help with:** Exploring advanced agentic AI architectures, distributed data processing, LLM optimization, and scalable AI deployment.<br>- 🌱 **I’m currently learning:** Multi-Agent Systems, MCP, LLM evaluation, ETL/ELT pipelines, data orchestration, and cloud-native architectures.<br>- 💬 **Ask me about:** Python, FastAPI, LLMs, RAG, LangChain, LangGraph, PostgreSQL, SQL, REST APIs, Kafka, Vector Databases, and Data Pipelines.<br>- ⚡ **Fun fact:** I love transforming complex data into intelligent solutions by combining AI, automation, and scalable engineering!
 
